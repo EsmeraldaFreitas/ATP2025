@@ -1,7 +1,6 @@
 ## TPC1 
-Autor: Esmeralda Freitas, a109932
-Resumo: lista de parágrafos
-
-Lista de resultados: links para os ficheiros da resolução
-
-README.md
+# Autor: Esmeralda Freitas, a109932
+# Resumo:
+Realização de 2 exercícios.
+- nível 10 do Maze.
+- desenhar um comboio no turtle.
