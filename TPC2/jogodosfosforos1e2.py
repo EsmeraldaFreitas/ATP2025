@@ -10,7 +10,7 @@ jogador=int(input("Queres ser o primeiro ou o segundo a jogar? 1/2 : "))
 while jogador!=1 and jogador!=2 :
     print ("Insere 1 ou 2, por favor!")
     jogador=int(input("Queres ser o primeiro ou o segundo a jogar? 1/2 : "))
-if jogador=="2":
+if jogador==2:
     while total>1:
             if total%5!=1 : 
                 pc=(total-1)%5
